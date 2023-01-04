@@ -58,8 +58,15 @@ Working on the risk management product
 #### September 2015 — June 2018
 Completed with a final project entitled: "XML Document Processing: An event-driven, microservices-oriented approach"
 
-Master's in Software Engineering, Instituto Politecnico do Porto - ESTG
 ### Masters: Computer Science
 #### Institute: Instituto Politecnico do Porto - ESTG
-#### September 2018 — Present
-Working on a thesis that conceptualizes a Data Lake architecture to manage data from an IIoT environment using pipelines entitled "Data Ness: collecting meaningful data within IIoT"
+#### September 2018 — December 2022
+Did my thesis that conceptualizes a Data Lake architecture to manage data from an IIoT environment using pipelines entitled "Data Ness: collecting meaningful data within IIoT"
+
+## 📓 Other certifications
+### BBox - Business in a Box
+### LEAP - Leadership program
+### AWS Cloud Practitioner
+
+## My links
+https://www.credly.com/users/ricardo-correia.81d4969c/badges
