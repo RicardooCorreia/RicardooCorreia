@@ -4,6 +4,9 @@ I'm a passionate software engineer driven to create clean and efficient software
 I love to talk about software giving and receiving knowledge, continuing to learn about the art of clean coding and architecture.
 My major goal with any project is to give my best, always trying to exceed expectations, as I find that the best way to evolve the product and myself. With this mentality, I'm always able to feel my impact on a project.
 
+![aws-certified-cloud-practitioner](https://user-images.githubusercontent.com/24415095/210585519-5f8da0c0-e695-4a52-ade6-354ab273a46d.png)
+
+
 ## 💻 What I'm currently doing
 The main project that I'm working on is with my current company Blip. I'm super excited to be developing large scale applications in a efficient and scalable way. Learning a lot about Flink, AWS and Kubernetes.
 Another current project of mine is my thesis, which I expect will be finish by the end to this year. I see it as a possible gateway to a world of data engineering, since it's based on software arquitecture, but applied to a Data management platform. Learning about Data Lake, Data Fabric, Data Mesh, Apache Beam, etc.
