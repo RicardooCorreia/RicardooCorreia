@@ -85,7 +85,7 @@ Working on the risk management products
 * Spring
 * Quarkus
 
-## 📖 Education History
+## 📖 Education
 ### Bachelor: Computer Science
 #### Institute: Instituto Politecnico do Porto - ESTG
 #### September 2015 — June 2018
@@ -99,9 +99,9 @@ Did my thesis that conceptualizes a Data Lake architecture to manage data from a
 * Thesis: https://recipp.ipp.pt/bitstream/10400.22/22521/1/DM_RicardoCorreia_MEI_2022.pdf
 
 ## 📓 Other certifications
-### BBox - Business in a Box
-### LEAP - Leadership program
-### AWS Cloud Practitioner
+* BBox - Business in a Box
+* LEAP - Leadership program
+* AWS Cloud Practitioner
 
 ## My links
 https://www.credly.com/users/ricardo-correia.81d4969c/badges
