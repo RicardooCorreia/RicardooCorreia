@@ -98,8 +98,20 @@ Did my thesis that conceptualizes a Data Lake architecture to manage data from a
 
 ## 📓 Other certifications
 * BBox - Business in a Box
-* LEAP - Leadership program
+* LEAP - Blip Leadership program
 * AWS Cloud Practitioner
+* Kubernetes Application Developer
+
+## 🎮 Hobbies
+* Reading
+	* [Goodreads profile](https://www.goodreads.com/user/show/124715999-ricardo-correia) 
+* Photography
+	* [Instagram page ](https://www.instagram.com/photossinto/)
+* Gaming
+* Guitar playing
+* Bouldering
 
 ## My links
-https://www.credly.com/users/ricardo-correia.81d4969c/badges
+* https://www.credly.com/users/ricardo-correia.81d4969c/badges
+* https://www.instagram.com/ricardoo_correia
+
