@@ -4,14 +4,13 @@ I'm a passionate software engineer driven to create clean and efficient software
 I love to talk about software giving and receiving knowledge, continuing to learn about the art of clean coding and architecture.
 My major goal with any project is to give my best, always trying to exceed expectations, as I find that the best way to evolve the product and myself. With this mentality, I'm always able to feel my impact on a project.
 
-![aws-certified-cloud-practitioner](https://user-images.githubusercontent.com/24415095/210585519-5f8da0c0-e695-4a52-ade6-354ab273a46d.png)
-
+<img src="[https://github.com/favicon.ico](https://user-images.githubusercontent.com/24415095/210585519-5f8da0c0-e695-4a52-ade6-354ab273a46d.png)" width="50"/>
+<img src="[https://github.com/favicon.ico](https://github.com/user-attachments/assets/25a97602-1dae-426a-b153-226f0933c807)" width="50"/>
 
 ## 💻 What I'm currently doing
 The main project that I'm working on is with my current company Blip. I'm super excited to be developing large scale applications in a efficient and scalable way. Learning a lot about Flink, AWS and Kubernetes.
 
 ## 💼 Employment History
-
 
 ### <img src="https://github.com/RicardooCorreia/RicardooCorreia/assets/24415095/d3307ab7-a578-4a01-bcae-7e615e5c2d63" width="48"> PetaPilot S.A.
 #### Role: Fullstack developer
