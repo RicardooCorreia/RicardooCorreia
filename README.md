@@ -72,6 +72,7 @@ Working on the risk management products
  	* Discovery and standardization of new performance testings tools and practices
   	* Managing multiple tech-debt topics (version updates, code quality practices, auto-scaling practices, etc)
   	* Revamp of observability processes
+  	* Organized fire drills to train on-call developers on how to respond to specifc incidents
 * Presentation of topics for company-wide events
 	* [Innovation week to present how did we scale from 1.2K events/s to 12K events/s](https://www.linkedin.com/posts/blip-pt_blip-flutter-innovationweek-activity-7113213167693930498-4RFp?utm_source=share&utm_medium=member_desktop) 	 
 
