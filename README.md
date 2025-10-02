@@ -45,7 +45,8 @@ Worked on the logistic software.
 	* Participated in architecture decisions
 * Developer at new project responsible for warehouse management, intended to replace the current warehouse management tool
 	* Created the base application with hexagonal architecture
- 	* Created new framework to manage packages state  
+ 	* Created new framework to manage packages state
+  		* This allowed to create a state flow chart for the packages, as well as automatic documentation 	
 	* Participated in architecture decisions
 	* Responsible for most of the codebase
 	* Introduced Apache Kafka
@@ -74,7 +75,9 @@ Working on the risk management products
   	* Revamp of observability processes
   	* Organized fire drills to train on-call developers on how to respond to specifc incidents
 * Presentation of topics for company-wide events
-	* [Innovation week to present how did we scale from 1.2K events/s to 12K events/s](https://www.linkedin.com/posts/blip-pt_blip-flutter-innovationweek-activity-7113213167693930498-4RFp?utm_source=share&utm_medium=member_desktop) 	 
+	* [Innovation week to present how did we scale from 1.2K events/s to 12K events/s](https://www.linkedin.com/posts/blip-pt_blip-flutter-innovationweek-activity-7113213167693930498-4RFp?utm_source=share&utm_medium=member_desktop)
+* Started a technical book club for knowledge sharing between the team
+* Introduced standards to incident resolution documenation, which improved resolution time and faciliated the introduction of new members to the on-call rota 
 
 #### Main Techonologies and Frameworks
 * Java
