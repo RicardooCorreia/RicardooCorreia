@@ -114,8 +114,9 @@ Did my thesis that conceptualizes a Data Lake architecture to manage data from a
 * Reading
 	* [Goodreads profile](https://www.goodreads.com/user/show/124715999-ricardo-correia) 
 * Photography
-	* [Instagram page ](https://www.instagram.com/photossinto/)
+	* [Instagram page](https://www.instagram.com/photossinto/)
 * Gaming
+	* [Inifite backlog profile](https://infinitebacklog.net/users/rickicorreia) 
 * Guitar playing
 * Bouldering
 
