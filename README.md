@@ -78,10 +78,12 @@ Working on risk management products.
   	* Managing multiple technical debt topics (version updates, code quality practices, auto-scaling practices, etc.)
   	* Revamp of observability processes
   	* Organized fire drills to train on-call developers on how to respond to specific incidents
-* Presentation of topics at company-wide events
+* Presentation of topics at company and division-wide events
 	* [Innovation Week: how we scaled from 1.2K events/s to 12K events/s](https://www.linkedin.com/posts/blip-pt_blip-flutter-innovationweek-activity-7113213167693930498-4RFp?utm_source=share&utm_medium=member_desktop)
+ 	* Building Bulletproof Flink - Session showcasing the developments made in making Apache Flink stable and scalable in the Cloud environment
 * Started a technical book club for knowledge sharing within the team
 * Introduced standards for incident resolution documentation, which improved resolution time and facilitated the onboarding of new members into the on-call rotation
+* Organized and performed a 2-day hands-on workshop highlighting the main features of Apache Flink, using a real business use case as an example
 
 #### 🛠️ Main Technologies and Frameworks
 * Java
