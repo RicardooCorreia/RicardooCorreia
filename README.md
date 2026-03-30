@@ -68,14 +68,19 @@ Worked on logistics software.
 #### Role: Senior Backend Developer
 #### Period: November 2021 — Present
 Working on risk management products.
-* Developer and maintainer of multiple microservices
+* Created and maintained several production services - Around 30 services in total
+	* Maintained a diagram overview over the services to increase visibility and maintain dependencies
+   	* Major driver in decommissioning some of them
 * Extensive work with Apache Flink
+	* Increased stability of Apache Flink applications in the Cloud environment
+ 	* Improved performance in multiple applications, as much as 90% in some cases
 * Daily interaction with the AWS platform, Kubernetes, and Docker
+	* Introduced multiple stability patterns in Kubernetes, such as node pools, node affinities, topology spread contraints and pod disruption budgets.
 * Interviewer for backend developer positions
 * Leading multiple technical initiatives
 	* Migration of Flink jobs to Flink Kubernetes Operator (for GitOps purposes and auto-scaling)
  	* Discovery and standardization of new performance testing tools and practices
-  	* Managing multiple technical debt topics (version updates, code quality practices, auto-scaling practices, etc.)
+  	* Owner and driver of most technical debt topics (version updates, code quality practices, auto-scaling practices, architecture patterns, etc.)
   	* Revamp of observability processes
   	* Organized fire drills to train on-call developers on how to respond to specific incidents
 * Presentation of topics at company and division-wide events
