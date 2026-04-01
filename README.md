@@ -88,6 +88,7 @@ Working on risk management products.
  	* Building Bulletproof Flink - Session showcasing the developments made in making Apache Flink stable and scalable in the Cloud environment
 * Started a technical book club for knowledge sharing within the team
 * Introduced standards for incident resolution documentation, which improved resolution time and facilitated the onboarding of new members into the on-call rotation
+* Introduced multiple solutions and patterns for cost efficiency such as auto scaling (both reactive and scheduled scaling), out of office shutdown, file storage policies, and metrics scrapping
 * Organized and performed a 2-day hands-on workshop highlighting the main features of Apache Flink, using a real business use case as an example
 
 #### 🛠️ Main Technologies and Frameworks
