@@ -11,7 +11,7 @@ The main project that I'm working on is at my current company, Revolut. I'm very
 
 ### 🛠️ Favorite technologies, frameworks and languages
 <img width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/b79c0bd9-b4f5-4b46-a973-08de3d70cc05" /> <img width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/9f78072a-657a-4cb8-aed0-137be56065f3" /> <img width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/810f3a1d-8f00-4eb6-8eda-67c550db45e3" />
- <img width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/1d0cb404-f60b-4149-98ec-eedc95ff192a" />
+ <img width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/1d0cb404-f60b-4149-98ec-eedc95ff192a" /> <img width="80" height="80" alt="Postgresql_elephant svg" src="https://github.com/user-attachments/assets/f7fb5d09-d232-4997-9626-2999915fa82d" />
 
 ## 💼 Employment History
 
